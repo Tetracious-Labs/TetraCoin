@@ -1,5 +1,5 @@
 # our blockchain class will act as a table
-from block import Block
+from tetracoin.block import Block
 import datetime as d
 import json
 import pprint as pp
